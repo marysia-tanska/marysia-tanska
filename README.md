@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Marysia :)
+
+🌻 Computational Designer, Lecturer and Researcher in Creative Computing<br>
+📍London<br>
+🏫 UAL Creative Computing Institute (@ual-cci), formerly Tylko (@tylkocom)<br><br>
+
+🎨👾 Currently developing a PhD project at the intersection of Accessibility, Digital Making, and Human-Computer Interaction
+
+🤖 Nerdy about all things geometry, parametric design, and digital fabrication
+💙 Passionate about small-scale and community projects
 
 <!--
 **marysia-tanska/marysia-tanska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
