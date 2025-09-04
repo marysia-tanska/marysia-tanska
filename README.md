@@ -6,7 +6,7 @@
 
 🎨👾 Currently developing a PhD project at the intersection of Accessibility, Digital Making, and Human-Computer Interaction<br><br>
 
-🤖 Nerdy about all things geometry, parametric design, and digital fabrication<br>
+🤖 Nerdy about all things geometry, parametric design, crafts, and digital fabrication<br>
 💙 Passionate about small-scale and community projects
 
 <!--
