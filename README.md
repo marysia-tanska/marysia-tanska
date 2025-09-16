@@ -1,6 +1,6 @@
 ### Hi, I'm Marysia :)
 
-**Note: I'm gradually moving my repositories, and setting up all new projects on <a href="https://codeberg.org/">Codeberg</a> due to Microsoft's (<a href="https://news.microsoft.com/announcement/microsoft-acquires-github/">who own GitHub</a>) increasing involvement with the IDF (to see please copy-paste link as GitHub seems to be blocking it: https://www.un.org/unispal/document/a-hrc-59-23-from-economy-of-occupation-to-economy-of-genocide-report-special-rapporteur-francesca-albanese-palestine-2025).**
+**Note: I'm gradually moving my repositories, and setting up all new projects on <a href="https://codeberg.org/">Codeberg</a> due to Microsoft's (<a href="https://news.microsoft.com/announcement/microsoft-acquires-github/">who own GitHub</a>) increasing involvement with the IDF (to see please copy-paste link if it doesn't work directly: https://www.un.org/unispal/document/a-hrc-59-23-from-economy-of-occupation-to-economy-of-genocide-report-special-rapporteur-francesca-albanese-palestine-2025).**
 
 🌻 Computational Designer, Lecturer and Researcher in Creative Computing<br>
 📍London<br>
